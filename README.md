@@ -11,3 +11,7 @@
 ## Exercise 3
     
     Change exercise 2 to use VueRouter and try Vuex for state control
+
+## Exercise 4
+    
+	Simple Angular Project to practice components, input/output bindings etc...
