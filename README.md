@@ -15,3 +15,8 @@
 ## Exercise 4
     
 	Simple Angular Project to practice components, input/output bindings etc...
+
+
+## Exercise 
+    
+    Change exercise 4 to use list movies from moviedb api using HttpClientModule

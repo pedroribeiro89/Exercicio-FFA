@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4d4129-752c-4dfb-8200-c1e3d6d48d6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-item/movie-item.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-item/movie-item.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-item/movie-item.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-item/movie-item.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/models/movie.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio-4/exercicio4/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio-5/exercicio5/src/shared/moviedb.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,47 +16,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.html">
+        <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="62" lean-forward="true" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+            <state relative-caret-position="29">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#81#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.ts">
+        <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="120">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-item/movie-item.component.html">
+        <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-item/movie-item.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
@@ -104,19 +50,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-item/movie-item.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.html">
+        <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
@@ -125,31 +59,60 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.css">
+        <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="100">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.ts">
+        <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/app.component.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state>
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-item/movie-item.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/models/movie.ts">
+        <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/shared/moviedb.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="80">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -196,6 +159,15 @@
         <option value="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.ts" />
         <option value="$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/exercicio-5/exercicio5/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/exercicio-5/exercicio5/src/models/movie.ts" />
+        <option value="$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.service.ts" />
+        <option value="$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-item/movie-item.component.html" />
+        <option value="$PROJECT_DIR$/exercicio-5/exercicio5/src/shared/moviedb.ts" />
+        <option value="$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-item/movie-item.component.ts" />
+        <option value="$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.component.css" />
+        <option value="$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.component.ts" />
+        <option value="$PROJECT_DIR$/exercicio-5/exercicio5/src/app/app.component.ts" />
       </list>
     </option>
   </component>
@@ -220,34 +192,34 @@
             <path>
               <item name="Exercicios-FFA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercicios-FFA" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio-4" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio-5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercicios-FFA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercicios-FFA" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio-4" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio4" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio-5" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercicios-FFA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercicios-FFA" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio-4" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio4" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio-5" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercicios-FFA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercicios-FFA" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio-4" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio4" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio-5" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercicios-FFA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercicios-FFA" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio-4" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio4" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio-5" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="movie-item" type="462c0819:PsiDirectoryNode" />
@@ -255,8 +227,8 @@
             <path>
               <item name="Exercicios-FFA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercicios-FFA" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio-4" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio4" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio-5" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="movie-list" type="462c0819:PsiDirectoryNode" />
@@ -304,21 +276,21 @@
       <updated>1597189476772</updated>
       <workItem from="1597189478311" duration="6456000" />
       <workItem from="1597796673873" duration="9085000" />
-      <workItem from="1598399964903" duration="3519000" />
+      <workItem from="1598399964903" duration="3754000" />
+      <workItem from="1598997715824" duration="4914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19060000" />
+    <option name="totallyTimeSpent" value="24209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -328,14 +300,15 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32277226" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32277226" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -347,8 +320,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.54554456" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32277226" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -505,43 +479,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/models/movie.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/main.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-item/movie-item.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-item/movie-item.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -552,13 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/node_modules/@angular/core/core.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
@@ -566,34 +502,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="62" lean-forward="true" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-item/movie-item.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-item/movie-item.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/models/movie.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-4/exercicio4/src/app/movie-list/movie-list.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -601,9 +569,107 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="340">
-            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/models/movie.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-item/movie-item.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/shared/moviedb.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-item/movie-item.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/movie-list/movie-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio-5/exercicio5/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
